@@ -1,3 +1,3 @@
 # README #
 
-Unity package providing basic sfx and music design functionality.
+Unity package providing basic audio design tools.
