@@ -1,0 +1,19 @@
+{
+  "name": "paulparoczai.unity.audio",
+  "version": "1.0.0",
+  "description": "Audio Utilities",
+  "displayName": "AudioAsset",
+  "author": {
+    "name": "Paul Paroczai"
+  },
+  "contributors": [
+    {
+      "name": "Paul Paroczai",
+      "email": "paulparoczai.gmail.com",
+      "url": "https://github.com/pparocza"
+    }
+  ],
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.1"
+  }
+}
